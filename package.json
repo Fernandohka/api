@@ -18,6 +18,8 @@
     "mongoose": "^8.10.1"
   },
   "devDependencies": {
-    "@types/config": "^3.3.5"
+    "@prisma/client": "^6.4.1",
+    "@types/config": "^3.3.5",
+    "prisma": "^6.4.1"
   }
 }
